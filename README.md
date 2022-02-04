@@ -1,2 +1,3 @@
 # CDS-Gym
-A group project 
+NCI - Web Design
+Semester 1 Project
